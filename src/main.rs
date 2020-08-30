@@ -45,7 +45,7 @@ pub async fn sleeper(mut tx: Sender<Command>) {
 mod tests {
     #[test]
     pub fn test_slf4j() {
-        assert_eq!(1, 1);
+        assert_eq!(1,1);
     }
 }
 

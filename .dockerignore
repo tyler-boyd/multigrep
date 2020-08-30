@@ -1,0 +1,8 @@
+.git/
+.gitignore
+.idea/
+bin/
+target/
+Dockerfile
+Makefile
+
